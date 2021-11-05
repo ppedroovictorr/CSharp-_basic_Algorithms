@@ -1,0 +1,13 @@
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\bin\Debug\netcoreapp3.1\Priemiro exercício URI.exe
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\bin\Debug\netcoreapp3.1\Priemiro exercício URI.deps.json
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\bin\Debug\netcoreapp3.1\Priemiro exercício URI.runtimeconfig.json
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\bin\Debug\netcoreapp3.1\Priemiro exercício URI.runtimeconfig.dev.json
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\bin\Debug\netcoreapp3.1\Priemiro exercício URI.dll
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\bin\Debug\netcoreapp3.1\Priemiro exercício URI.pdb
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.csprojAssemblyReference.cache
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.AssemblyInfoInputs.cache
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.AssemblyInfo.cs
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.dll
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.pdb
+E:\PROGRAMAS CSHARP\Priemiro exercício URI\Priemiro exercício URI\obj\Debug\netcoreapp3.1\Priemiro exercício URI.genruntimeconfig.cache

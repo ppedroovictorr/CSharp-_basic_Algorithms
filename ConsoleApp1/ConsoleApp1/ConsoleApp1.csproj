@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Pedro Victor\Desktop\Cshap primeiros passos Lógica de Programação e Algoritmos\Entrada de dados com vetores e conversão forçada.cs" Link="Entrada de dados com vetores e conversão forçada.cs" />
+  </ItemGroup>
+
+</Project>

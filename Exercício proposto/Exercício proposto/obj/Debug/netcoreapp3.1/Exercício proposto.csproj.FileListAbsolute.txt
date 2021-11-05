@@ -1,0 +1,13 @@
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\bin\Debug\netcoreapp3.1\Exercício proposto.exe
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\bin\Debug\netcoreapp3.1\Exercício proposto.deps.json
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\bin\Debug\netcoreapp3.1\Exercício proposto.runtimeconfig.json
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\bin\Debug\netcoreapp3.1\Exercício proposto.runtimeconfig.dev.json
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\bin\Debug\netcoreapp3.1\Exercício proposto.dll
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\bin\Debug\netcoreapp3.1\Exercício proposto.pdb
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.csprojAssemblyReference.cache
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.AssemblyInfoInputs.cache
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.AssemblyInfo.cs
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.dll
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.pdb
+E:\PROGRAMAS CSHARP\Exercício proposto\Exercício proposto\obj\Debug\netcoreapp3.1\Exercício proposto.genruntimeconfig.cache

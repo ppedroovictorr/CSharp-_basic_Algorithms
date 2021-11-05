@@ -1,0 +1,12 @@
+E:\PROGRAMAS CSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.exe
+E:\PROGRAMAS CSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.deps.json
+E:\PROGRAMAS CSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.json
+E:\PROGRAMAS CSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.dev.json
+E:\PROGRAMAS CSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.dll
+E:\PROGRAMAS CSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.pdb
+E:\PROGRAMAS CSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfoInputs.cache
+E:\PROGRAMAS CSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfo.cs
+E:\PROGRAMAS CSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS CSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.dll
+E:\PROGRAMAS CSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.pdb
+E:\PROGRAMAS CSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.genruntimeconfig.cache

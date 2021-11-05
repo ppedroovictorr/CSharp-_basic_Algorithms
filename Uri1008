@@ -1,0 +1,22 @@
+using System;
+
+namespace uri1008
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int func, ht;
+            double ValorHora, salario;
+            func = int.Parse(Console.ReadLine());
+            ht = int.Parse(Console.ReadLine());
+            ValorHora = double.Parse(Console.ReadLine());
+            salario = (ht * ValorHora);
+
+            Console.WriteLine("NUMBER = " + func);
+            Console.WriteLine("SALARY = " + salario.ToString("F2"));
+
+
+        }
+    }
+}

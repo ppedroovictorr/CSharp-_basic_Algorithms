@@ -1,0 +1,4 @@
+E:\PROGRAMAS CSHARP\Area do terreno\Area do terreno\obj\Debug\netcoreapp3.1\Area do terreno.csprojAssemblyReference.cache
+E:\PROGRAMAS CSHARP\Area do terreno\Area do terreno\obj\Debug\netcoreapp3.1\Area do terreno.AssemblyInfoInputs.cache
+E:\PROGRAMAS CSHARP\Area do terreno\Area do terreno\obj\Debug\netcoreapp3.1\Area do terreno.AssemblyInfo.cs
+E:\PROGRAMAS CSHARP\Area do terreno\Area do terreno\obj\Debug\netcoreapp3.1\Area do terreno.csproj.CoreCompileInputs.cache

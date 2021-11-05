@@ -1,0 +1,13 @@
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.AssemblyInfoInputs.cache
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.AssemblyInfo.cs
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.csprojAssemblyReference.cache
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\bin\Debug\netcoreapp3.1\Saída de dados.exe
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\bin\Debug\netcoreapp3.1\Saída de dados.deps.json
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\bin\Debug\netcoreapp3.1\Saída de dados.runtimeconfig.json
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\bin\Debug\netcoreapp3.1\Saída de dados.runtimeconfig.dev.json
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\bin\Debug\netcoreapp3.1\Saída de dados.dll
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\bin\Debug\netcoreapp3.1\Saída de dados.pdb
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.dll
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.pdb
+E:\PROGRAMAS CSHARP\Saída de dados\Saída de dados\obj\Debug\netcoreapp3.1\Saída de dados.genruntimeconfig.cache

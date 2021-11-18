@@ -1,0 +1,48 @@
+using System;
+
+namespace Testes {
+    class Program {
+        static void Main(string[] args) {
+
+            /* string[] vet = Console.ReadLine().Split(' ');
+             string aa = vet[0];
+             string ab = vet[1];
+             string ac = vet[2];
+             string ad = vet[3];
+             string ae = vet[4];
+            */
+            double n1, n2, n3, resultado;
+
+
+            n1 = double.Parse(Console.ReadLine());
+            n2 = double.Parse(Console.ReadLine());
+            n3 = double.Parse(Console.ReadLine());
+
+            resultado = maior(n1, n2, n3);
+            Console.WriteLine("Maior " + resultado);
+
+            Console.ReadKey();
+        }
+        // criando uma função nova
+        // não é necessário (dentro da função) chamar os mesmos nomes de variáveis,
+        // serve só de parametro para as variáveis. 
+
+        static double maior(double a, double b, double c) {
+            double m;
+            if (a > b && a > c) {
+                m = a;
+            }
+            else if (b > c) {
+                m = b;
+            }
+            else { m = c;
+
+            }
+            return m;
+
+
+        }
+
+
+    }
+}

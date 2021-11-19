@@ -1,0 +1,13 @@
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache

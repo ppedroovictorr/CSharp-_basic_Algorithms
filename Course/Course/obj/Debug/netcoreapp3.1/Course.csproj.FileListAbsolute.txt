@@ -1,0 +1,13 @@
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

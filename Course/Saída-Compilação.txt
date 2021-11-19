@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: Course, Configuração: Debug Any CPU ------
+1>Course -> E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

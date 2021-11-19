@@ -1,0 +1,13 @@
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\bin\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.exe
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\bin\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.deps.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\bin\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.runtimeconfig.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\bin\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.runtimeconfig.dev.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\bin\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\bin\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.csprojAssemblyReference.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.AssemblyInfoInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.AssemblyInfo.cs
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.csproj.CoreCompileInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\CalculoDoRaio_ClasseEstatica\CalculoDoRaio_ClasseEstatica\obj\Debug\netcoreapp3.1\CalculoDoRaio_ClasseEstatica.genruntimeconfig.cache

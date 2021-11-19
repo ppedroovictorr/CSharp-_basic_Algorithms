@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculoDoRaio_ClasseEstatica/1.0.0": {
+        "runtime": {
+          "CalculoDoRaio_ClasseEstatica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculoDoRaio_ClasseEstatica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

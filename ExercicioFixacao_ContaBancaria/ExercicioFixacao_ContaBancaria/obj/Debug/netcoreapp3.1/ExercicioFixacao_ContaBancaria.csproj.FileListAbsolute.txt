@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\bin\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.exe
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\bin\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.deps.json
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\bin\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\bin\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\bin\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.dll
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\bin\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.pdb
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.dll
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.pdb
+C:\Users\Pedro Victor\source\repos\ExercicioFixacao_ContaBancaria\ExercicioFixacao_ContaBancaria\obj\Debug\netcoreapp3.1\ExercicioFixacao_ContaBancaria.genruntimeconfig.cache

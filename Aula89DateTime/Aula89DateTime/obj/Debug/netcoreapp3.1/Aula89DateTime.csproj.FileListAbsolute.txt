@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\bin\Debug\netcoreapp3.1\Aula89DateTime.exe
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\bin\Debug\netcoreapp3.1\Aula89DateTime.deps.json
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\bin\Debug\netcoreapp3.1\Aula89DateTime.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\bin\Debug\netcoreapp3.1\Aula89DateTime.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\bin\Debug\netcoreapp3.1\Aula89DateTime.dll
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\bin\Debug\netcoreapp3.1\Aula89DateTime.pdb
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.dll
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.pdb
+C:\Users\Pedro Victor\source\repos\Aula89DateTime\Aula89DateTime\obj\Debug\netcoreapp3.1\Aula89DateTime.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.exe
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.deps.json
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.dll
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\bin\Debug\netcoreapp3.1\Aula90TimeSpan.pdb
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.dll
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.pdb
+C:\Users\Pedro Victor\source\repos\Aula90TimeSpan\Aula90TimeSpan\obj\Debug\netcoreapp3.1\Aula90TimeSpan.genruntimeconfig.cache

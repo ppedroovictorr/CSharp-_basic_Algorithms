@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\bin\Debug\netcoreapp3.1\RevMatrizMNVizinhos.exe
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\bin\Debug\netcoreapp3.1\RevMatrizMNVizinhos.deps.json
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\bin\Debug\netcoreapp3.1\RevMatrizMNVizinhos.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\bin\Debug\netcoreapp3.1\RevMatrizMNVizinhos.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\bin\Debug\netcoreapp3.1\RevMatrizMNVizinhos.dll
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\bin\Debug\netcoreapp3.1\RevMatrizMNVizinhos.pdb
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.dll
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.pdb
+C:\Users\Pedro Victor\source\repos\RevMatrizMNVizinhos\RevMatrizMNVizinhos\obj\Debug\netcoreapp3.1\RevMatrizMNVizinhos.genruntimeconfig.cache

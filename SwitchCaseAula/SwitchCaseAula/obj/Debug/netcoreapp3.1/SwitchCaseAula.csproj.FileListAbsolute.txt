@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\bin\Debug\netcoreapp3.1\SwitchCaseAula.exe
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\bin\Debug\netcoreapp3.1\SwitchCaseAula.deps.json
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\bin\Debug\netcoreapp3.1\SwitchCaseAula.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\bin\Debug\netcoreapp3.1\SwitchCaseAula.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\bin\Debug\netcoreapp3.1\SwitchCaseAula.dll
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\bin\Debug\netcoreapp3.1\SwitchCaseAula.pdb
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.dll
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.pdb
+C:\Users\Pedro Victor\source\repos\SwitchCaseAula\SwitchCaseAula\obj\Debug\netcoreapp3.1\SwitchCaseAula.genruntimeconfig.cache

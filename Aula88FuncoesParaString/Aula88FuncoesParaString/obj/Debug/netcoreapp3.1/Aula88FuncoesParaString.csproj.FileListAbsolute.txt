@@ -1,0 +1,13 @@
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.exe
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.deps.json
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.runtimeconfig.json
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.runtimeconfig.dev.json
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.dll
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\bin\Debug\netcoreapp3.1\Aula88FuncoesParaString.pdb
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.csprojAssemblyReference.cache
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.AssemblyInfoInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.AssemblyInfo.cs
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.dll
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.pdb
+C:\Users\Pedro Victor\source\repos\Aula88FuncoesParaString\Aula88FuncoesParaString\obj\Debug\netcoreapp3.1\Aula88FuncoesParaString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\bin\Debug\netcoreapp3.1\Aula115Enumeracao(enum).exe
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\bin\Debug\netcoreapp3.1\Aula115Enumeracao(enum).deps.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\bin\Debug\netcoreapp3.1\Aula115Enumeracao(enum).runtimeconfig.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\bin\Debug\netcoreapp3.1\Aula115Enumeracao(enum).runtimeconfig.dev.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\bin\Debug\netcoreapp3.1\Aula115Enumeracao(enum).dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\bin\Debug\netcoreapp3.1\Aula115Enumeracao(enum).pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).csprojAssemblyReference.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).AssemblyInfoInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).AssemblyInfo.cs
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).csproj.CoreCompileInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula115Enumeracao(enum)\Aula115Enumeracao(enum)\obj\Debug\netcoreapp3.1\Aula115Enumeracao(enum).genruntimeconfig.cache

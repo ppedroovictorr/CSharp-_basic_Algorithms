@@ -1,0 +1,13 @@
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.csprojAssemblyReference.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.AssemblyInfoInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.AssemblyInfo.cs
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.csproj.CoreCompileInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.exe
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.deps.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.runtimeconfig.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.runtimeconfig.dev.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula119-121ExercicioResolvido\Aula119-121ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula119-121ExercicioResolvido.genruntimeconfig.cache

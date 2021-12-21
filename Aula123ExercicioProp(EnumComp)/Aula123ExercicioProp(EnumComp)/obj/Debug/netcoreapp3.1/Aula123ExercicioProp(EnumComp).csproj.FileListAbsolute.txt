@@ -1,0 +1,13 @@
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).csprojAssemblyReference.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).AssemblyInfoInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).AssemblyInfo.cs
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).csproj.CoreCompileInputs.cache
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\bin\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).exe
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\bin\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).deps.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\bin\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).runtimeconfig.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\bin\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).runtimeconfig.dev.json
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\bin\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\bin\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).dll
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).pdb
+E:\12 - C# COMPLETO - ORIENTADO + Projetos\Aulas\Aula123ExercicioProp(EnumComp)\Aula123ExercicioProp(EnumComp)\obj\Debug\netcoreapp3.1\Aula123ExercicioProp(EnumComp).genruntimeconfig.cache
